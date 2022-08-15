@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "Welcome to the awx-operator installer"
-echo "The script will install awx-operator and run above kubernete(k3s) !"
+echo "The script install,remove,check port and password of awx-operator and run with kubernete(k3s) !"
 echo "Last step waiting  the run and when finished only press 'ctrl + c' to exit !"
 echo "Options(Write only the number):
       1-: Install option,
