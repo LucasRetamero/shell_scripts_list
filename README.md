@@ -1,4 +1,4 @@
-# List shell scrit
+# List shell script
 <img src="linux image.jpg" alt="exemplo imagem">
 
 ### List of shell script !
