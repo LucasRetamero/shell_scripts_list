@@ -1,7 +1,7 @@
-# List shell script
+# List Shell Script Project
 <img src="linux image.jpg" alt="exemplo imagem">
 
-### List of shell script !
+### List shell script !
 
 about the list:
 
