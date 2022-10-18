@@ -10,7 +10,8 @@ about the list:
 
 Get the list shell script, follow the steps:
 
-Linux:
+Get Repo:
+
 ```
 git clone https://github.com/LucasRetamero/shell_scripts_list.git
 
@@ -23,6 +24,7 @@ Execute some script, follow the steps:
 ```
 cd shell_scripts_list/scripts
 sh <write the name script.sh>
+
 ```
 
 
